@@ -1,0 +1,6 @@
+audio_files/
+.DS_Store
+android/
+__pycache__
+.vs
+.vscode
